@@ -1,0 +1,73 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: #485460;
+}
+
+#cabecalho .nav-link.active {
+    background-color: #0fbcf9;
+    color: #fff;
+}
+
+#cabecalho .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-produtos .nav-link.active:hover{
+    color: #fff;
+}
+
+.navbar-brand{
+    margin: 0;
+    font-size: 36px;
+}
+
+
+.navbar-toggler{
+    background-color: #fff;
+}
+
+.carousel-item.active img,
+.carousel-item img {
+    width: 100%;
+}
+
+.section-title{
+    font-family: Pacifico,cursive;
+}
+
+.text-colored{
+    color: #0652DD;
+}
+
+#Sobre-a-barber,
+#produtos{
+    background-color: #d2dae2;
+}
+
+.nav-produtos .nav-link.active,
+#contato button{
+    background-color: #0fbcf9;
+    color: #fff;
+}
+
+.nav-produtos .nav-link:hover{
+    color:#0652DD;
+}
+
+.social-links i{
+    color: black;
+}
+
+.social-links li{ 
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
+
+
+
